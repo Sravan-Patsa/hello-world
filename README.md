@@ -1,2 +1,2 @@
-# hello-world
-exploring Github
+## hello-world
+Exploring Github
