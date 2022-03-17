@@ -5,7 +5,7 @@ This's a **Great** *platform*.
 
 > This is a blockquote.
 
-`This is a code, x= y`
+`print("hello world")`
 
 -------------------------------
 
