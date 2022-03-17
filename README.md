@@ -1,17 +1,17 @@
 ## Hello-world
 ### Exploring Github
-==Basic syntax==
+
 This's a **Great** *platform*.
-> This is fun.
-`This is interesting.#i=+1`
+
+> This is a blockquote.
+
+`This is a code, x= y`
+
 -------------------------------
-==Advanced syntax==
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+
 
 ```
+#This is a code block.
 {
   "firstName": "John",
   "lastName": "Smith",
@@ -26,10 +26,6 @@ Here's a sentence with a footnote. [^1]
 ~~The world is flat.~~
 
 That is so funny! :joy:
-
-H~2~O
-
-X^2^
 
 -------------------------------
 [my linkedin profile](https://www.linkedin.com/in/sravan-patsa)
