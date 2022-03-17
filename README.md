@@ -28,4 +28,4 @@ Here's a sentence with a footnote. [^1]
 That is so funny! :joy:
 
 -------------------------------
-[my linkedin profile](https://www.linkedin.com/in/sravan-patsa)
+[My linkedin profile](https://www.linkedin.com/in/sravan-patsa)
